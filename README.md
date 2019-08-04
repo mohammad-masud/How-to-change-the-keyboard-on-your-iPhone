@@ -1,7 +1,7 @@
 The iPhone comes with dozens of foreign language keyboards, which you can enable and use any time you need to type in a different language.
 keyboard
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzGE9ks1RO9M6D1uRW5gZ731cAEsnTOhaGth1jGzmDaAnjI7I2
+
 
 And that's not all - you can install third-party keyboards and use them instead. Some keyboards feature alternate key layouts, additional emoji, or even "swipe" style input where you slide your finger around the keyboard instead of tapping specific keys.
 
